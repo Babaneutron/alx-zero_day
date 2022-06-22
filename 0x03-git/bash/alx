@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "alx"
+=======
+echo "alx
+>>>>>>> dad53a4... starting to code today, g~
